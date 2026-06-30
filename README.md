@@ -1,7 +1,7 @@
 # High-Fidelity Cloud Telemetry Engineering & AI-Assisted Security Operations Center (SOC)
 
 ## Demo Video
-Watch the full project demo: [Click here](https://1drv.ms/v/c/ca84ccba0e93da2d/IQCOaduqe4PkSbiTWT0drfRfAS1BpGq1HGq-RDu2ThfD-TA?e=G4TGam)
+Watch the full project demo: [Click here](https://1drv.ms/v/c/ca84ccba0e93da2d/IQAE5S72Zyt3SKzJFF_Q0HnpAZ8i8YC5D__rZYTcwFsNlt0?e=lcSaVo)
 
 ## 📖 Executive Summary
 
