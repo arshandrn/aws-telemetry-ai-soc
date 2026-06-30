@@ -82,7 +82,7 @@ By granting Claude read-only programmatic access to my AWS APIs, I transformed t
 - [Project Report](AWS.pdf)
 - [Raw Analyst Telemetry](incident-notes.pdf)
 - [Claude Generated IR Report](IR-2026-0627-001_Final_Incident_Report.pdf)
-- [Lambda_Python_code](scripts/)
+- [Lambda_Python_code](script/)
 - [Screenshots](images/)
 
 ## 🖼️ Screenshots
