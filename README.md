@@ -86,4 +86,18 @@ By granting Claude read-only programmatic access to my AWS APIs, I transformed t
 - [Screenshots](images/)
 
 ## 🖼️ Screenshots
-- 
+- VPC
+
+![VPC](images/1VPC_Resource_Map.png)
+
+- CloudWatch Log Groups
+
+![CloudWatch](images/5.CW_Log_Groups.png)
+
+- CLoudWatch Alarms
+
+![CWalarms](images/6.CW_Alarms_List.png)
+
+- Claude MCP
+
+![Claude](images/38claudeconfig.png)
