@@ -77,3 +77,13 @@ By granting Claude read-only programmatic access to my AWS APIs, I transformed t
 1. Automatically query CloudWatch alarm histories.
 2. Cross-correlate unauthorized API bursts to specific access keys (`AKIA` vs `ASIA`).
 3. Generate a complete, executive-ready Incident Report mapped to the MITRE ATT&CK framework in seconds.
+
+## 📂 Files in This Repo
+- [Project Report](AWS.pdf)
+- [Raw Analyst Telemetry](incident-notes.pdf)
+- [Claude Generated IR Report](IR-2026-0627-001_Final_Incident_Report.pdf)
+- [Lambda_Python_code](scripts/)
+- [Screenshots](images/)
+
+## 🖼️ Screenshots
+- 
